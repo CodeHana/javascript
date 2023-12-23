@@ -1,0 +1,16 @@
+{
+  "name": "javascript-project",
+  "version": "1.0.0",
+  "description": "This is a music player website.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
